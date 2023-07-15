@@ -28,6 +28,14 @@
   color: #61dafb;
 }
 
+body {
+  color: white;
+  background: radial-gradient(ellipse at bottom, #141618 0%, #141618 100%);
+  font-family: 'Nova Square', cursive;
+  font-size: calc(0.75em + 1vmin);
+  font-weight: 300;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
